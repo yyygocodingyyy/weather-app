@@ -1,5 +1,5 @@
-import express from 'express';
-import request from 'request-promise-native';
+const express = require('express');
+const request = require ('request-promise-native');
 
 const API_KEY = '23e759e53bfc406af5d083810918e144';
 
