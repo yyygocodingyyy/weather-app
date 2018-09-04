@@ -2,6 +2,7 @@ Test: http://localhost:3000/weather/Philadelphia
 
 To Run:
 node server
+
 localhost:3000/weather/Philadelphia
 > 
 >
